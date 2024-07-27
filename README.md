@@ -5,12 +5,29 @@ This is the code for our project on Video Editing and AR for the Applied Foundat
 Check out our project report HERE.
 
 ## Results
+Here a few edited videos and the corresponding original videos are depicted.
+
+<p align="center">
+  <img src="assets/videos/gun_ego.gif" width="200" />
+  <img src="assets/videos/gun_ego_raw.gif" width="200" />
+  <img src="assets/videos/sword_ego_short.gif" width="200" />
+  <img src="assets/videos/sword_ego_raw_short.gif" width="200" />
+</p>
+
+<p align="center">
+  <img src="assets/videos/sword_spin.gif" width="200" />
+  <img src="assets/videos/sword_spin_raw.gif" width="200" />
+  <img src="assets/videos/gun_run_short.gif" width="200" />
+  <img src="assets/videos/gun_run_raw_short.gif" width="200" />
+</p>
+
+
 
 
 ## Usage
 
 ### 3D Models
-Required 3D meshes (format has to be compatible with trimesh.laod()):
+Required 3D meshes (format has to be compatible with trimesh.load()):
 * Textured 3D mesh of object that will be tracked in the video
 * Textured 3D mesh of object to insert to video
 
