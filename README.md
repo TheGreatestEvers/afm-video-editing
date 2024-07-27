@@ -5,7 +5,7 @@ This is the code for our project on Video Editing and AR for the Applied Foundat
 Check out our project report HERE.
 
 ## Results
-Here a few edited videos and the corresponding original videos are depicted.
+Here a few edited videos and the corresponding original videos are depicted (might take a few seconds to load).
 
 <p align="center">
   <img src="assets/videos/gun_ego.gif" width="200" />
