@@ -28,6 +28,8 @@ Here a few edited videos and the corresponding original videos are depicted (mig
 
 In case you want to try our framework without recording your own video, a demo can be downloaded from here*PONTUS HERE DRIVE LINK*. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. ## Usage
 
+## Usage
+
 ### 3D Models
 Required 3D meshes (format has to be compatible with trimesh.load()):
 * Textured 3D mesh of object that will be tracked in the video
@@ -57,7 +59,7 @@ Use the FoundationPose run_demo.py script with debugmode=2 to track the object. 
 Set up Track-Anything as described [here](https://github.com/gaomingqi/Track-Anything) and get familiar with the tutorial. Upload the video in .mp4 format (to convert from single .png frames to .mp4 the provided pngs_to_mp4.py can be used). Create a mesk for the occluding object (e.g. the hand) and track it in every frame. Afterwards safe the mask folder from results.
 
 ### Postprocessing and Rendering
-For the postprocessing and rendering see the documentation provided in main.ipynb.
+For the postprocessing and rendering see the documentation provided in main.ipynb. A conda env can be created with the given environment.yaml file.
 
 ## Acknowledgement
 We would like to thank the authors of FoundationPose and Track-Anything. Also special thanks goes out to our supervisor Tarun Yenamandra.
