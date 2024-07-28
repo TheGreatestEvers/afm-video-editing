@@ -36,7 +36,7 @@ Make sure that coordinate frames of the different meshes are aligned in a sensef
 ### RGBD Video
 Record a RGBD video with the object you want to track (and replace) in it. Fast movements of the object lead to error prone tracking with FoundationPose. If you want to deal with hand occlusions later on, it is beneficial to wear a colorful glove on the hand which is holding the object.   
 
-Make sure that the RGB frames and the depth frames are aligned properly. The frames should be stored as individal .png files. Use 16bit unsigned values and a milimenter scale for the depth values. Also the camera intrinsic matrix is needed as a .txt file. If you are using an Intel Realsense camera the provided script record_realsense.py can be used to record and safe aligned videos. The script also extracts the camera intrinsics automatically.
+Make sure that the RGB frames and the depth frames are aligned properly. The frames should be stored as individal .png files. Use 16bit unsigned values and a milimenter scale for the depth values. Also the camera intrinsic matrix is needed as a .txt file. If you are using an Intel Realsense camera the provided script realsense_align.py can be used to record and safe aligned videos. The script also extracts the camera intrinsics automatically.
 
 Note that for the first frame a mask of the object is required. This can be obtained with Microsoft Paint, SAM, etc.
 
