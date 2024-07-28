@@ -56,7 +56,7 @@ Use the FoundationPose run_demo.py script with debugmode=2 to track the object. 
 Set up Track-Anything as described [here](https://github.com/gaomingqi/Track-Anything) and get familiar with the tutorial. Upload the video in .mp4 format (to convert from single .png frames to .mp4 the provided pngs_to_mp4.py can be used). Create a mesk for the occluding object (e.g. the hand) and track it in every frame. Afterwards safe the mask folder from results.
 
 ### Postprocessing and Rendering
-For the postprocessing and rendering see the documentation provided in insert_object.ipynb.
+For the postprocessing and rendering see the documentation provided in main.ipynb.
 
 ## Acknowledgement
 We would like to thank the authors of FoundationPose and Track-Anything. Also special thanks goes out to our supervisor Tarun Yenamandra.
