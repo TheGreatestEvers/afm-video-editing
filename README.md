@@ -26,7 +26,7 @@ Here a few edited videos and the corresponding original videos are depicted (mig
 
 ## Demo
 
-In case you want to try our framework without recording your own video, a demo can be downloaded from here*PONTUS HERE DRIVE LINK*. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. ## Usage
+In case you want to try our framework without recording your own video, a demo can be downloaded from here*PONTUS HERE DRIVE LINK*. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. 
 
 ## Usage
 
