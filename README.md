@@ -53,10 +53,10 @@ See HERE for an example.
 Use the FoundationPose run_demo.py script with debugmode=2 to track the object. Afterwards safe the ob_in_cam/ folder, this contains the 4x4 pose matrices for each frame. To verify if your tracking worked you can check out the track_vis/ folder.
 
 ### Track-Anything (to deal with occlusions)
-Set up FoundationPose as described [here](https://github.com/gaomingqi/Track-Anything) and get familiar with the tutorial. Upload the video in .mp4 format (to convert from single .png frames to .mp4 the provided pngs_to_mp4.py can be used). Create a mesk for the occluding object (e.g. the hand) and track it in every frame. Afterwards safe the mask folder from results.
+Set up Track-Anything as described [here](https://github.com/gaomingqi/Track-Anything) and get familiar with the tutorial. Upload the video in .mp4 format (to convert from single .png frames to .mp4 the provided pngs_to_mp4.py can be used). Create a mesk for the occluding object (e.g. the hand) and track it in every frame. Afterwards safe the mask folder from results.
 
 ### Postprocessing and Rendering
-For the postprocessing and rendering see the documentation provided in insert_object.ipynb.
+For the postprocessing and rendering see the documentation provided in main.ipynb.
 
 ## Acknowledgement
 We would like to thank the authors of FoundationPose and Track-Anything. Also special thanks goes out to our supervisor Tarun Yenamandra.
