@@ -22,6 +22,8 @@ Here a few edited videos and the corresponding original videos are depicted (mig
 </p>
 
 
+## Demo
+In case you want to try our framework without recording your own video, a demo can be downloaded from here*PONTUS HERE DRIVE LINK*. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. 
 
 
 ## Usage
@@ -49,7 +51,6 @@ Set up FoundationPose as described [here](https://github.com/NVlabs/FoundationPo
     * mesh/
     * cam_K.txt
 
-See HERE for an example.
 Use the FoundationPose run_demo.py script with debugmode=2 to track the object. Afterwards safe the ob_in_cam/ folder, this contains the 4x4 pose matrices for each frame. To verify if your tracking worked you can check out the track_vis/ folder.
 
 ### Track-Anything (to deal with occlusions)
