@@ -26,7 +26,7 @@ Here a few edited videos and the corresponding original videos are depicted (mig
 
 ## Demo
 
-In case you want to try our framework without recording your own video, a demo can be downloaded from here https://drive.google.com/drive/folders/1wCDiG25If92xcxFBMIh6d-QjBcaW9ELb?usp=sharing. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. 
+In case you want to try our framework without recording your own video, demo data can be downloaded from [here]( https://drive.google.com/drive/folders/1wCDiG25If92xcxFBMIh6d-QjBcaW9ELb?usp=sharing). This folder contains a recorded RGBD video, results of FoundationPose and Track-Anything, and a mesh for inserting. 
 
 ## Usage
 
