@@ -2,7 +2,7 @@
 
 This is the code for our project on Video Editing and AR for the Applied Foundation Models Practical. Goal was to build a framework that allows the replacement of one object in a video by another object using computer vision foundation models. The project builds upon [FoundationPose](https://github.com/NVlabs/FoundationPose) and [Track-Anything](https://github.com/gaomingqi/Track-Anything).
 
-Check out our project report [here] (https://drive.google.com/file/d/1BngTZSLHP6cIUMecsCGy_NqMoW8SLl_Y/view?usp=drive_link).
+Check out our project report [here](https://drive.google.com/file/d/1BngTZSLHP6cIUMecsCGy_NqMoW8SLl_Y/view?usp=drive_link).
 
 ## Results
 Here a few edited videos and the corresponding original videos are depicted (might take a few seconds to load).
