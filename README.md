@@ -26,7 +26,7 @@ Here a few edited videos and the corresponding original videos are depicted (mig
 
 ## Demo
 
-In case you want to try our framework without recording your own video, a demo can be downloaded from here*PONTUS HERE DRIVE LINK*. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. 
+In case you want to try our framework without recording your own video, a demo can be downloaded from here https://drive.google.com/drive/folders/1wCDiG25If92xcxFBMIh6d-QjBcaW9ELb?usp=sharing. It contains a recorded RGBD video, Results of FoundationPose and Track-Anything and a mesh for inserting. 
 
 ## Usage
 
@@ -65,7 +65,7 @@ For the postprocessing and rendering see the documentation provided in main.ipyn
 We would like to thank the authors of FoundationPose and Track-Anything. Also special thanks goes out to our supervisor Tarun Yenamandra.
 
 ## Authors
-Jonathan Evers, Pontus Bjorklin, Utku Turkbey. Technical University Munich. Contact via github.
+Jonathan Evers, Pontus Björklid, Utku Turkbey. Technical University Munich. Contact via github.
 
 
 
